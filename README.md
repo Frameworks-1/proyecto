@@ -36,3 +36,7 @@ Estilizado:
 CSS tradicional / CSS Modules, para mantener un diseño limpio, responsivo y fácil de mantener.
 Despliegue:
 Netlify, por su facilidad de integración con GitHub y despliegue automático del proyecto.
+
+
+<img width="3826" height="2625" alt="Untitled diagram-2026-01-22-032652" src="https://github.com/user-attachments/assets/ca996067-a800-4bfd-a4ca-aacc982e9237" />
+
